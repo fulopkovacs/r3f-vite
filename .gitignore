@@ -25,4 +25,4 @@ dist-ssr
 
 # yalc stuff
 .yalc
-yalc.ignore
+yalc.lock
