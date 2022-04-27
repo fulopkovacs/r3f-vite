@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom'
 import './index.css'
 import '@theatre/studio'
-// import {getProject} from '@theatre/core'
+import {getProject} from '@theatre/core'
 import React from 'react'
 // import App from './App'
 
