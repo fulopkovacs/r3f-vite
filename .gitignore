@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# yalc stuff
+.yalc
+yalc.ignore

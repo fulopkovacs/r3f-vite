@@ -1,10 +1,14 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App'
+import ReactDOM from 'react-dom'
 import './index.css'
+import '@theatre/studio'
+// import {getProject} from '@theatre/core'
+import React from 'react'
+// import App from './App'
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+ReactDOM.render(
+  /* <React.StrictMode>
+    <App project={getProject('CRA project')} />
+  </React.StrictMode>, */
+  <h1>hello</h1>,
+  document.getElementById('root'),
 )
