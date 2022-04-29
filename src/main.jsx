@@ -3,7 +3,7 @@ import './index.css'
 import '@theatre/studio'
 import {getProject} from '@theatre/core'
 import React from 'react'
-// import App from './App'
+import App from './App'
 
 ReactDOM.render(
   /* <React.StrictMode>
