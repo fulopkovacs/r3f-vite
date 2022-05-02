@@ -10,11 +10,6 @@
   "dependencies": {
     "@react-three/drei": "^7.2.2",
     "@react-three/fiber": "^7.0.6",
-    "@theatre/core": "0.4.8-dev.3",
-    "@theatre/dataverse": "0.4.8-dev.3",
-    "@theatre/r3f": "0.4.0-dev.23",
-    "@theatre/react": "0.4.8-dev.3",
-    "@theatre/studio": "0.4.8-dev.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-shadow": "^19.0.3",
