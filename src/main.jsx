@@ -6,9 +6,8 @@ import React from 'react'
 import App from './App'
 
 ReactDOM.render(
-  /* <React.StrictMode>
+  <React.StrictMode>
     <App project={getProject('CRA project')} />
-  </React.StrictMode>, */
-  <h1>hello</h1>,
+  </React.StrictMode>,
   document.getElementById('root'),
 )
